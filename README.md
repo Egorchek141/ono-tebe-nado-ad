@@ -1,2 +1,1 @@
-https://github.com/wqzert/ono-tebe-nado-ad/
-
+https://github.com/Egorchek141/ono-tebe-nado-ad
